@@ -1,0 +1,9 @@
+Job1 400000 4 1000 1 4
+0 300000
+1 200000 0
+2 400000 0
+3 400000 1
+Reader
+Printer
+Disk test.txt r 5 1000 0 
+Disk test2.txt w 5 1000 0
